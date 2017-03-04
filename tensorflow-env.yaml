@@ -14,6 +14,7 @@ dependencies:
 - conda-forge::seaborn=0.7.1=py35_0
 - conda-forge::statsmodels=0.8.0=np111py35_0
 - conda-forge::tensorflow=0.12.1=py35_1
+- conda-forge::tqdm=4.11.2=py35_0
 - cycler=0.10.0=py35_0
 - decorator=4.0.11=py35_0
 - entrypoints=0.2.2=py35_0
