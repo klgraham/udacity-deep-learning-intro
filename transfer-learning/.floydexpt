@@ -1,1 +1,1 @@
-{"experiment_predecessor": null, "name": "transfer-learning", "module_predecessor": null, "family_id": "ArmdfLhLbR9XtFiQzJKn42", "version": 1}
+{"family_id": "ArmdfLhLbR9XtFiQzJKn42", "module_predecessor": "gMy9m3kUH653J3qjQvoJZK", "experiment_predecessor": "uB3dVC6Zz8rNmLCn4JiYMH", "name": "transfer-learning", "version": 2}
